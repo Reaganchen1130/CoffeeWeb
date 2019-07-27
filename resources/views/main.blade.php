@@ -9,12 +9,18 @@
             color: #F2EEE5;
         }
 
-        ul {
+
+
+        .cex2 {
             list-style-type: none;
             margin: 0;
             padding: 0;
             overflow: hidden;
             background-color: #F2EEE5;
+        }
+
+        .li {
+            float: right;
         }
 
         li {
@@ -37,12 +43,11 @@
 
 </head>
 
-
-
 <body>
-    <div class="cex">
+    <div class="cex cex2">
+        <img src="https://upload.cc/i1/2019/07/27/Ii3Btn.png" width="10%" height="10%"></i>>
         <ul>
-            <li><a class="active" href="#home">Home</a></li>
+            <li><a href="#home">Home</a></li>
             <li><a href="#news">News</a></li>
             <li><a href="#contact">Contact</a></li>
             <li><a href="#about">About</a></li>
